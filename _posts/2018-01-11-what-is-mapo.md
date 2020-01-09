@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What the Heck is Mapo Tofu Anyway?"
-author: tyki
+author: Jacob
 categories: [ about, introduction ]
 tags: [red, yellow]
 image: assets/images/11.jpg

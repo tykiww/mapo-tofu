@@ -33,4 +33,5 @@ rating: 4.5
 ```html
 <span class="spoiler">My hidden paragraph here.</span>
 ```
- (Spoiler: Simon had died and was not resuscitated!)
+
+<span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span>

@@ -14,22 +14,22 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Jacob
+    display_name: Jacob
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: jacob.braswell00@gmail.com
+    web: https://github.com/jocobtt
+    twitter: 
+    description: "Just one of the authors (:"
   john:
-    name: John
-    display_name: John    
+    name: Tyki
+    display_name: Tyki   
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    email: tykiwada@gmail.com
+    web: https://tykiww.github.io/CV
+    twitter: 
+    description: "Authors!"
 
 # Plugins
 plugins:

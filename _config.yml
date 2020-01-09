@@ -13,7 +13,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  Jacob:
     name: Jacob
     display_name: Jacob
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
@@ -21,7 +21,7 @@ authors:
     web: https://github.com/jocobtt
     twitter: 
     description: "Just one of the authors (:"
-  john:
+  Tyki:
     name: Tyki
     display_name: Tyki   
     avatar: 'assets/images/avatar.png'

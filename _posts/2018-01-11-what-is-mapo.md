@@ -29,3 +29,8 @@ description: "My review of Inception movie. Actors, directing and more."
 rating: 4.5
 ---
 ```
+
+```html
+<span class="spoiler">My hidden paragraph here.</span>
+```
+ (Spoiler: Simon had died and was not resuscitated!)
